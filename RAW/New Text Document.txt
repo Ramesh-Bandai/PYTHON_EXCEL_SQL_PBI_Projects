@@ -1,0 +1,3 @@
+fetch all files with extension
+filter only .csv files
+remove extension

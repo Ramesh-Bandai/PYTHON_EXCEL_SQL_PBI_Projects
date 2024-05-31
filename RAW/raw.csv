@@ -1,0 +1,11 @@
+INDEX,ID,NAME,GENDER,DOB,CITY,JOBAREA,Salary,DISTANCE,MARRIED,H_&_W,INFO
+1,1,Ramesh Appaso Bandai,Male,1-Jan-96,Solapur,Pandharpur,"80,000","5,000 kms",No,23/45,1 march 1996 at Soalpur
+4,3,Prasad Sukhdev Jadhav,Male,18-Aug-93,Pune,Pune,20.22 Cr,"55,000 kms",No,45/34,Aug 1993 at Pune
+5,4,Kishor Baban Bargaje,Male,19-Jul-00,Goa,Goa,"50,000","90,000 kms",No,78/34,19 July 2000 in Goa
+6,5,Rohini Ashok Jadhav,Female,27-Jun-92,Pune,Pune,30000,67000 kms,Yes,22/45,27 Jan 1992 in pune
+7,6,Karim Husen Mujawar,Trans,20-Mar-95,Bijapur,Goa,3.6 Cr,55000 kms,No,66/34,in Bijapur
+8,7,Rohini Ashok Jadhav,Female,27-Jun-92,Pune,Pune,30000,67000 kms,No,78/45,1992
+9,8,Prasad Sukhdev Jadhav,Male,18-Aug-93,Pune,Pune,20.22 Cr,"55,000 kms",No,45/34,at pune
+10,9,Rajesh Baban Kushwa,Male,30-Nov-92,Noida,Delhi,"50,000",20000 kms,Yes,78/34,30 Nov 1992 in Noida
+12,1,Ramesh Appaso Bandai,Male,1-Jan-96,Solapur,Noida,"80,000","5,000 kms",No,23/45,1 march 1996 at Soalpur
+13,8,Prasad Sukhdev Jadhav,Male,18-Aug-93,Pune,Pandharpur,20.22 Cr,"55,000 kms",No,45/34,at pune
